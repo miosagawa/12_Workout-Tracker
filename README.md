@@ -1,7 +1,7 @@
 Folder update content:
 Update date：Aug 6, 2020
 
-URL:https://miosagawa.github.io/12_Workout-Tracker/index.html
+URL:https://miosagawa.github.io/12_Workout-Tracker/public/index.html
 
 Github:https://github.com/miosagawa/12_Workout-Tracker.git
 
