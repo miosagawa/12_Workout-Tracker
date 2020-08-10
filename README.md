@@ -1,7 +1,7 @@
 Folder update content:
 Update date：Aug 6, 2020
 
-URL:https://miosagawa.github.io/12_Workout-Tracker/Develop/index.html
+URL:https://miosagawa.github.io/12_Workout-Tracker/index.html
 Github:https://github.com/miosagawa/12_Workout-Tracker.git
 
 1.Workout Tracker（Created according to the following conditions）
