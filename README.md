@@ -1,7 +1,7 @@
 Folder update content:
 Update date：Aug 6, 2020
 
-URL:https://sagawa0721.herokuapp.com/exercise
+URL:https://workout-app-sagawa.herokuapp.com/
 
 Github:https://github.com/miosagawa/12_Workout-Tracker.git
 
